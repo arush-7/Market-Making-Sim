@@ -1,0 +1,1 @@
+fit_k from trade distances on the default market: 26.4579
